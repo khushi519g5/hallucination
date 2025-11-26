@@ -3,7 +3,7 @@
 
 # STEP 2 — Login to Hugging Face
 from huggingface_hub import login
-login("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")  # 🔑 replace with your token
+login("#REPLACE WITH YOUR OWN TOKEN")  # 🔑 replace with your token
 
 # STEP 3 — Imports & setup
 import os
